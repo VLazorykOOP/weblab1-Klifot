@@ -1,0 +1,20 @@
+.container-fluid {
+    font-family: 'Poller One', cursive;  
+    background-image: url(./images/forIvan.jpeg);
+    color: cornsilk;
+ }
+h2 {
+    background-color: rgba(77, 85, 87, 0.3) ;
+ }
+ footer {
+    height: 6em;
+    background-color: rgba(98, 49, 104, 0.396);
+}
+span{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    color: goldenrod;
+    font-size: 1.5em;
+}
